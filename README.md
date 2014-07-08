@@ -3,7 +3,7 @@ RotationMatrix
 
 Calculate ZYX Rotation Matrix DIN70000 and Quaternion
 
-![](Fahrzeug-Koordinatensystem-DIN70000-669x333.png)
+![](https://raw.githubusercontent.com/balzer82/RotationMatrix/master/Fahrzeug-Koordinatensystem-DIN70000-669x333.png)
 
 Rotation in 3D ist ein ziemlich kompliziertes Ding, weil man viele verschiedene Konventionen und Definitionen hat. Ließt man im Internet nach, steht auf jeder Seite etwas anderes, weil oftmals keine Definition dazu angegeben ist. Da die Roation mit den 3 Euler Winkeln nicht kommutativ ist, ist die Reihenfolge (Konvention) wichtig.
 
@@ -11,7 +11,7 @@ Hier wird nach der in der Automobilindustrie üblichen ZYX Konvention gedreht (d
 
 Klingt zuerst total kompliziert, ist es aber eigentlich gar nicht.
 
-![Rotation](Rotation3D.png)
+![Rotation](https://raw.githubusercontent.com/balzer82/RotationMatrix/master/Rotation3D.png)
 
 ###[IPython Notebook](http://nbviewer.ipython.org/github/balzer82/RotationMatrix/blob/master/RotationMatrix.ipynb)
 
