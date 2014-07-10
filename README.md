@@ -13,6 +13,14 @@ Klingt zuerst total kompliziert, ist es aber eigentlich gar nicht.
 
 ![Rotation](https://raw.githubusercontent.com/balzer82/RotationMatrix/master/Rotation3D.png)
 
-###[IPython Notebook](http://nbviewer.ipython.org/github/balzer82/RotationMatrix/blob/master/RotationMatrix-und-Quaternion.ipynb)
+####[IPython Notebook](http://nbviewer.ipython.org/github/balzer82/RotationMatrix/blob/master/RotationMatrix-und-Quaternion.ipynb)
 
-###[Vimeo Video](https://vimeo.com/100209309)
+####[Vimeo Video](https://vimeo.com/100209309)
+
+## Rotation einer Punktwolke
+
+Natürlich kann man auch eine [Punktwolke (Pointcloud)](https://raw.githubusercontent.com/balzer82/RotationMatrix/master/Pointcloud00002.pcd) rotieren.
+
+####[IPython Notebook](http://nbviewer.ipython.org/github/balzer82/RotationMatrix/blob/master/RotatePointCloud.ipynb)
+
+####[Vimeo Video](https://vimeo.com/100388235)
